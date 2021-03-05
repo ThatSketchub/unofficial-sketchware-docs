@@ -10,7 +10,7 @@ If you don't have an AdMob account, go to [AdMob](https://apps.admob.com/signup)
 
 You are set if you are navigated to the screen below
 
-![AdMob page](.gitbook/assets/image%20%287%29%20%281%29.png)
+![AdMob page](.gitbook/assets/image%20%287%29%20%281%29%20%281%29.png)
 
 ## Creating an AdMob unit
 
@@ -58,7 +58,7 @@ Tap `Add Manually`
 
 Enter the `Ad Unit Name` you used to create the ad unit in AdMob, and paste the `Ad Unit ID` you copied earlier, then click `Add`.
 
-![Adding the Ad Unit](.gitbook/assets/image%20%2829%29.png)
+![Adding the Ad Unit](.gitbook/assets/image%20%2829%29%20%281%29.png)
 
 Repeat until you have both Banner and Interstitial ad units then click `Next`.
 
@@ -78,7 +78,7 @@ Repeat until an ad unit is assigned for Interstitial. It should look similar to 
 
 Click on `Add Test Devices` and click `Add`. Click `Next`.
 
-![](.gitbook/assets/image%20%2817%29%20%281%29.png)
+![](.gitbook/assets/image%20%2817%29%20%281%29%20%281%29.png)
 
 #### Review Information
 
