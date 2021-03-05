@@ -20,6 +20,7 @@ Give us feedback by [filling out this form](https://forms.gle/DCDxGs8F4HJGMzseA)
 
 ## ![](.gitbook/assets/fluent_change_log.png) Change log
 
+* [x] Started Variable page
 * [x] Now anyone can contribute on GitHub! 
 * [x] Added AdMob Guide
 * [x] Made properties page easier to understand.

@@ -33,15 +33,17 @@ String variables accept a string \(text\)
 
 Map variables are for making maps with `key:value` pairs
 
-#### Set Boolean to
+## Blocks
+
+### Set Boolean to
 
 ![](../.gitbook/assets/variable_boolean_set_to.png)
 
-Sets a variable to True or False
+Sets a boolean variable to True or False
 
 
 
-#### Set Number
+### Set Number to
 
 ![](../.gitbook/assets/variable_number_set_number_to.png)
 
@@ -49,7 +51,7 @@ Sets a number variable to the specified value
 
 
 
-#### Increase 1
+### Increase 1
 
 ![](../.gitbook/assets/variable_number_increase_1.png)
 
@@ -57,7 +59,7 @@ Increases the number variable by 1
 
 
 
-#### Decrease 1
+### Decrease 1
 
 ![](../.gitbook/assets/variable_number_decrease_1.png)
 
@@ -65,9 +67,9 @@ Decrease the number variable by 1
 
 
 
-#### Set string
+### Set string to
 
 ![](../.gitbook/assets/variable_string_set_to.png)
 
-Sets a string to the sepcified value
+Sets a string variable to the specified value
 
