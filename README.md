@@ -10,7 +10,7 @@ We are trying our best to make this site a useful reference and are constantly u
 
 ## ![](.gitbook/assets/fluent_contribute.png) Contribute
 
-You can contribute to this project on [GitHub](https://github.com/AirplaneBofa/unofficial-sketchware-docs/tree/main)!
+You can contribute to this project on [GitHub](https://github.com/AirplaneBofa/unofficial-sketchware-docs)!
 
 ## ![](.gitbook/assets/fluent_construction.png) This site is under construction
 
@@ -20,6 +20,7 @@ Give us feedback by [filling out this form](https://forms.gle/DCDxGs8F4HJGMzseA)
 
 ## ![](.gitbook/assets/fluent_change_log.png) Change log
 
+* [x] Started Variable page
 * [x] Now anyone can contribute on GitHub! 
 * [x] Added AdMob Guide
 * [x] Made properties page easier to understand.
