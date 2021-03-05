@@ -42,7 +42,7 @@ When your activity is no longer visible to the user. This is usually a good poin
 
 ### ![](.gitbook/assets/widget_source.png) onDestroy
 
-When the activity is closed, this will be the last event of Activity. It also occurs when somebody close the app correctly. \(Force close can be exception\)
+When the activity is closed, this will last event of Activity. It also occurs when somebody close the app correctly. \(Force close can be exception\)
 
 ## ![](.gitbook/assets/multiple_devices_48.png) View
 
