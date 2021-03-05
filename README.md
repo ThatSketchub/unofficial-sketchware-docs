@@ -16,6 +16,7 @@ Give us feedback by [filling out this form](https://forms.gle/DCDxGs8F4HJGMzseA)
 
 ## ![](.gitbook/assets/info.png) Change log
 
+* [x] Now anyone can contribute on GitHub! 
 * [x] Added AdMob Guide
 * [x] Made properties page easier to understand.
 
