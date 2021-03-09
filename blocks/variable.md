@@ -10,7 +10,7 @@ Keep in mind that variable values aren't saved, so when the app is closed, they 
 
 ## Different kinds of Variables
 
-There are 4 different kinds of variables in Sketchware:
+There are four different kinds of variables in Sketchware:
 
 * Boolean
 * Number
