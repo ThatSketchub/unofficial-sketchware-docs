@@ -12,11 +12,6 @@ Keep in mind that variable values aren't saved, so when the app is closed, they 
 
 There are four different kinds of variables in Sketchware:
 
-* Boolean
-* Number
-* String
-* Map
-
 ### Boolean
 
 Booleans accept values like true and false

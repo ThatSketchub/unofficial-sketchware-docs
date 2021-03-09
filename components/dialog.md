@@ -40,7 +40,7 @@ Runs the blocks inside when specified name of the OK button is clicked.
 
 #### Set title
 
-![set title](../.gitbook/assets/image%20%2839%29%20%281%29%20%281%29.png)
+![set title](../.gitbook/assets/image%20%2839%29%20%281%29%20%282%29.png)
 
 Sets the specified title for the specified dialog.
 
