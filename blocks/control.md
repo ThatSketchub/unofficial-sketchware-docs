@@ -15,7 +15,7 @@ Repeats the blocks inside forever
 ![Forever](../.gitbook/assets/image%20%2821%29.png)
 
 {% hint style="danger" %}
-Must be used with a [stop ](https://sketchdocs.sketchub.in/blocks/control#stop)block, or the app will crash.
+Must be used with a [stop ](https://sketchdocs.sketchub.in/blocks/control#stop)block or the app will crash.
 {% endhint %}
 
 #### 

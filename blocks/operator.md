@@ -4,7 +4,7 @@ description: Usually used with blocks from the Contol tab.
 
 # Operator
 
-![](../.gitbook/assets/in-progress.png) This page in not finished
+This page in not finished
 
 #### True
 
@@ -22,7 +22,7 @@ False condition
 
 
 
-#### &lt; \(less than
+#### &lt; \(less than\)
 
 ![Less than](../.gitbook/assets/operator-less-then.png)
 

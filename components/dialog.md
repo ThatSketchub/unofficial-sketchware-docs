@@ -6,8 +6,6 @@ description: >-
 
 # Dialog
 
-![](../.gitbook/assets/checkmark.png) This page is finished
-
 ## Basic Example
 
 {% tabs %}
