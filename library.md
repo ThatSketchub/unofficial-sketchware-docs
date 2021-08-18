@@ -39,7 +39,7 @@ If you make money from ads added to your app, support the developers of Sketchwa
 Enables the use of the MapView widget.
 
 {% hint style="success" %}
-You don't _need_ to enter the api key to use the GoogleMap library.
+You don't need __to enter the api key to use the GoogleMap library.
 {% endhint %}
 
 

@@ -34,7 +34,7 @@ You don't need the App ID for Sketchware
 
 On the next page, click either `Banner` or `Interstitial`
 
-![](.gitbook/assets/image%20%2815%29%20%282%29.png)
+![](.gitbook/assets/image%20%2815%29%20%282%29%20%281%29.png)
 
 {% hint style="success" %}
 You can specify ad type \(Text, Image, and rich media or Video\), and more under `Advanced Settings`.
@@ -58,7 +58,7 @@ Tap `Add Manually`
 
 Enter the `Ad Unit Name` you used to create the ad unit in AdMob, and paste the `Ad Unit ID` you copied earlier, then click `Add`.
 
-![Adding the Ad Unit](.gitbook/assets/image%20%2829%29%20%281%29%20%281%29.png)
+![Adding the Ad Unit](.gitbook/assets/image%20%2829%29%20%281%29%20%281%29%20%281%29.png)
 
 Repeat until you have both Banner and Interstitial ad units then click `Next`.
 
